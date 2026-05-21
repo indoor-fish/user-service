@@ -21,3 +21,4 @@ Manages user lifecycle: registration, authentication, profile management, and ro
 See `BUSINESS_RULES.md` for auth business rules.
 # accuracy test trigger
 # reindex
+# reindex
