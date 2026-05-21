@@ -19,3 +19,4 @@ Manages user lifecycle: registration, authentication, profile management, and ro
 - `@indoor-fish/shared-libs` — shared types and constants
 
 See `BUSINESS_RULES.md` for auth business rules.
+# accuracy test trigger
